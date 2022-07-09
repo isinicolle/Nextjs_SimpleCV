@@ -31,8 +31,6 @@ Video: https://youtu.be/
 <br>
 -Next
 <br>
--@babel/cli 
-<br>
 
 
 ---------------
