@@ -1,0 +1,25 @@
+{
+  "name": "nextjs_simplecv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isinicolle/Nextjs_SimpleCV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isinicolle/Nextjs_SimpleCV/issues"
+  },
+  "homepage": "https://github.com/isinicolle/Nextjs_SimpleCV#readme",
+  "dependencies": {
+    "next": "^12.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
