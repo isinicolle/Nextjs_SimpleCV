@@ -72,10 +72,7 @@ const Index = () => (
                     {from} {to ? `- ${to}` : "- current"}
                   </h5>
                   <p>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Sint excepturi ea explicabo. Illum suscipit illo, porro
-                    quisquam voluptatem officiis fugiat vel animi aliquam
-                    inventore rem. Quo laudantium temporibus cupiditate. Aut?
+                  Work without pay
                   </p>
                 </li>
               ))}
@@ -109,7 +106,7 @@ const Index = () => (
                     <div className="card-body">
                       <h3>{name}</h3>
                       <p>{description}</p>
-                      <a href="#!">Know More</a>
+                      <a href="https://isinicolle.github.io/proyectos.html">Know More</a>
                     </div>
                   </div>
                 </div>
@@ -117,7 +114,7 @@ const Index = () => (
 
               <div className="col-md-12 mt-4">
                 <div className="text-center">
-                  <Link href="/portfolio">
+                  <Link href="https://isinicolle.github.io/proyectos.html">
                     <a className="btn btn-outline-light">More Projects</a>
                   </Link>
                 </div>
