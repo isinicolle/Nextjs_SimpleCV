@@ -55,7 +55,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ---------------
 
 <div align="center" >
-<img src="#" height="250px">
 
 <img src="#" height="250px" alt="Imagen del proyecto">
 
