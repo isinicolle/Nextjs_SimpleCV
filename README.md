@@ -34,6 +34,10 @@ Video: https://youtu.be/
 -Bootswatch
 <br>
 -nprogress
+<br>
+-classnames
+<br>
+-prop-types
 
 
 ---------------
