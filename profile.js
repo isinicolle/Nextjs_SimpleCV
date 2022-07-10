@@ -1,54 +1,55 @@
 export const skills = [
   {
     skill: "Javascript",
-    percentage: 100,
-  },
-  {
-    skill: "Golang",
     percentage: 80,
   },
   {
+    skill: "C#",
+    percentage: 100,
+  },
+  {
     skill: "Nodejs",
-    percentage: 90,
+    percentage: 60,
   },
   {
-    skill: "Blockchain",
-    percentage: 40,
-  },
-  {
-    skill: "Physics",
+    skill: "Java",
     percentage: 70,
   },
   {
-    skill: "Economics",
+    skill: "MongoDB",
+    percentage: 100,
+  },
+  {
+    skill: "SQL Server",
     percentage: 70,
   },
   {
-    skill: "Machine Learning",
-    percentage: 70,
+    skill: "Desing",
+    percentage: 100,
   },
 ];
 
 export const experiences = [
   {
-    title: "Software developer at Microsoft",
+    title: "Web designer and developer",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2000,
-    to: 2005,
+      "Website of the School Turn on a Light to present the educational center to future students and the same. It is designed for the visual part intended for end users.",
+    from: 2022,
+    to: 2022,
   },
   {
-    title: "Software developer at Google",
+    title: "Developer - Full Stack",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2005,
-    to: 2007,
+      "Desktop application for the administrative management of the dental clinic, using agile methodologies in a working group of 11 people working remotely.",
+    from: 2021,
+    to: 2021,
   },
   {
-    title: "Software developer at SpaceX",
+    title: "Administrative Assistant",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2010,
+      "Practice of scholarship holders for academic excellence. In the Department of Registration of the University.",
+    from: 2019,
+    to: 2020,
   },
 ];
 
