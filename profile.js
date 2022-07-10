@@ -93,24 +93,24 @@ export const projects = [
 
 export const posts = [
   {
-    title: "React",
+    title: "Cursos gratis Udemy",
     content:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Udemy.com es una plataforma de aprendizaje en línea. Está dirigido a adultos profesionales.​ A diferencia de los programas académicos MOOC conducidos por tradicionales cursos de trabajo creados por las universidades, Udemy utiliza contenido de creadores en línea para vender y así conseguir ganancias.​  Cursos gratis aqui: https://www.cursosdev.com/coupons",
     imageURL:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faie.edu.au%2Fwp-content%2Fuploads%2F2018%2F03%2Fgame-programming-03.jpg",
+      "https://s.udemycdn.com/meta/default-meta-image-v2.png",
   },
   {
-    title: "Angular",
+    title: "Cursos gratis Google Activate",
     content:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Google Actívate es una iniciativa de #GrowWithGoogle con la colaboración de distintos socios y colaboradores. Es el proyecto de formación sin coste para adquirir competencias digitales. El futuro del trabajo está en el mundo online, un mundo lleno de posibilidades donde puedes conseguir todo lo que te propongas.",
     imageURL:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faie.edu.au%2Fwp-content%2Fuploads%2F2018%2F03%2Fgame-programming-03.jpg",
+      "https://i.pinimg.com/originals/29/ca/2c/29ca2c7972ce3ccf60e362eb3d868ead.jpg",
   },
   {
-    title: "Nextjs",
+    title: "Cursos gratis Cisco",
     content:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Cisco Networking Academy transforma la vida de estudiantes, educadores y comunidades gracias al poder de la tecnología, la educación y las oportunidades profesionales. Disponible para cualquier persona, en cualquier lugar. Actualmente estamos brindando ayuda para que usted pueda enseñar y aprender de manera remota.",
     imageURL:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faie.edu.au%2Fwp-content%2Fuploads%2F2018%2F03%2Fgame-programming-03.jpg",
+      "https://www.paradavisual.com/wp-content/uploads/2021/04/La-agencia-de-desarrollo-digital-confia-en-Ciscoj.jpg",
   },
 ];
