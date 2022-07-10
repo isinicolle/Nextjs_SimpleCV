@@ -2,7 +2,7 @@ name: Build and release Next.js web aplication
 on: push
 jobs:
   build-project:
-  name: Build Next.js aplication
+  name: Build Next.js application
   runs-on: ubuntu-lastest
   steps:
     -name: Checkout code
@@ -10,4 +10,4 @@ jobs:
     -name: Install NPM dependencies
     run: npm install
     -name: Build static website
-    run: npm run dev
+    run: npm run build
