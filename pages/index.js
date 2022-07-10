@@ -14,13 +14,11 @@ const Index = () => (
               <img src="/Isiszapata.png" alt="" className="img-fluid" />
             </div>
             <div className="col-md-8">
-              <h1>Ryan Ray</h1>
+              <h1>Isis Zapata</h1>
               <h3>Full Stack Developer</h3>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Molestiae atque ullam perferendis harum, nisi porro voluptate,
-                iste consequuntur enim reprehenderit architecto consectetur cum?
-                Totam ad molestias natus illum illo officia.
+              My name is Isis Nicolle Zapata Florentino, I am currently an intern of the Computer Science Engineering career at the Catholic University of Honduras (UNICAH) 
+              taking 95.00% of the career, I have very little left to finish. I am currently looking for where to do my professional practice. 
               </p>
               <Link href="/hireme">
                 <a className="btn btn-outline-light">Hire Me</a>
