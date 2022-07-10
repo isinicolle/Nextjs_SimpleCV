@@ -32,6 +32,8 @@ Video: https://youtu.be/
 -Next
 <br>
 -Bootswatch
+<br>
+-nprogress
 
 
 ---------------
