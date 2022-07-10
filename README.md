@@ -56,7 +56,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 <div align="center" >
 
-<img src="#" height="250px" alt="Imagen del proyecto">
+<img src="https://github.com/isinicolle/isinicolle.github.io/blob/main/assets/img/Proyectos/proyecto-cvnextjs.png" height="250px" alt="Imagen del proyecto">
 
 </div>
 
