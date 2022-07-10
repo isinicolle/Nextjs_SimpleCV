@@ -20,7 +20,7 @@ const Index = () => (
               My name is Isis Nicolle Zapata Florentino, I am currently an intern of the Computer Science Engineering career at the Catholic University of Honduras (UNICAH) 
               taking 95.00% of the career, I have very little left to finish. I am currently looking for where to do my professional practice. 
               </p>
-              <Link href="/hireme">
+              <Link href="https://isinicolle.github.io/acercade.html">
                 <a className="btn btn-outline-light">Hire Me</a>
               </Link>
             </div>
