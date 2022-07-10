@@ -38,6 +38,8 @@ Video: https://youtu.be/
 -classnames
 <br>
 -prop-types
+<br>
+-animate.css
 
 
 ---------------
