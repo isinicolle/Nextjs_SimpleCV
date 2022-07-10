@@ -57,37 +57,37 @@ export const projects = [
     name: "Awesome Website 1",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio1.jpeg",
+    image: "proyecto-androidjuegos.jpg",
   },
   {
     name: "Awesome Website 2",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio2.jpg",
+    image: "proyecto-camidentalcsharp.jpg",
   },
   {
     name: "Awesome Website 3",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio3.png",
+    image: "proyecto-crucerosjava.jpg",
   },
   {
     name: "Awesome Website 4",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio4.png",
+    image: "proyecto-escuelaenciendeunaluz.jpg",
   },
   {
     name: "Awesome Website 5",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio5.jpeg",
+    image: "proyecto-ferreteriamoviluadmin.jpg",
   },
   {
     name: "Awesome Website 6",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio6.jpeg",
+    image: "proyecto-iccunicah.png",
   },
 ];
 
