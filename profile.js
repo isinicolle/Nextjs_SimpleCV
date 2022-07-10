@@ -55,39 +55,39 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "Awesome Website 1",
+    name: "Tres juegos en uno para Android1",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Aplicacion elaborada con Android Studio en Java. Consta de 3 juegos en 1 (UFO SCAPE, TRES EN RAYA Y ADIVINA LA PALABRA) Demo: https://youtu.be/nNTQRZFCzC8",
     image: "proyecto-androidjuegos.jpg",
   },
   {
-    name: "Awesome Website 2",
+    name: "CamiDental",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Para la clínica dental Accidental, desarrollado con C#, Python , Google Calendar API , AWS RDS , Microsoft SQL Server y GitHub en un grupo de trabajo de 11 personas de manera remota.",
     image: "proyecto-camidentalcsharp.jpg",
   },
   {
-    name: "Awesome Website 3",
+    name: "Bezel Cruises",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Elaborado en Java con su base de datos en SQLServer",
     image: "proyecto-crucerosjava.jpg",
   },
   {
-    name: "Awesome Website 4",
+    name: "Escuela Enciende Una Luz",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Proyecto elaborado con Elaborada con html , css , javascript , bootstrap , jquery , etc. Demo: https://escuela-enciende-una-luz.bss.design/",
     image: "proyecto-escuelaenciendeunaluz.jpg",
   },
   {
-    name: "Awesome Website 5",
+    name: "Ferreteria parte Admin",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Aplicacion movil elaborada en React Native, pensada la interfaz y funcionalidad para la parte administrativa, con una base de datos en AZURE.",
     image: "proyecto-ferreteriamoviluadmin.jpg",
   },
   {
-    name: "Awesome Website 6",
+    name: "Pagina de la Facultad de Ingenieria en Ciencias de la Computacion",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Elaborada con html , css , javascript , bootstrap , jquery , etc. Demo: https://ingenieria-en-ciencias-de-la-computacion-unicah.bss.design/",
     image: "proyecto-iccunicah.png",
   },
 ];
