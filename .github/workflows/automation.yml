@@ -1,0 +1,13 @@
+name: Build and release Next.js web aplication
+on: push
+jobs:
+  build-project:
+  name: Build Next.js aplication
+  runs-on: ubuntu-lastest
+  steps:
+    -name: Checkout code
+    uses: actions/checkout@v2
+    -name: Install NPM dependencies
+    run: npm install
+    -name: Build static website
+    run: npm run build
